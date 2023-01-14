@@ -71,7 +71,6 @@ a{
 
                       /* SMALL IMAGE AND TEXT STARTS */
 .text{
-    /* border: 1px solid green; */
     height: 200px;
     width: 230px;
     margin-top: -3.8px ;
@@ -81,7 +80,6 @@ a{
     padding-top: 5px;
     border-bottom-right-radius: 5px;
     border-bottom: 1px solid rgb(245, 134, 44);
-    /* border-left: 1px solid yellow; */
     transition: margin-top 0.5s;
 
 }
